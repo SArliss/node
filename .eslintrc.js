@@ -2,6 +2,8 @@
 
 /* eslint-env node */
 
+/* test by Sinara*/
+
 const Module = require('module');
 const path = require('path');
 
